@@ -3,8 +3,8 @@ Minecraft username claimer for name day (one account only, no proxies needed)
 
 
 ## How to install:
-1) Download Python: https://www.python.org/downloads/
-2) Download Pip: https://pip.pypa.io/en/stable/installation/
+1) Download and install Python: https://www.python.org/downloads/
+2) Download and install Pip: https://pip.pypa.io/en/stable/installation/
 3) Install requirements by running `install.bat`
 
 
